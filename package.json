@@ -1,0 +1,28 @@
+{
+  "name": "airdrop-hunter",
+  "version": "1.0.0",
+  "description": "A program allowing users to automatically run their list of blockchain transactions in different accounts, in order to increase their chance of getting airdrops.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wctse/airdrop-hunter.git"
+  },
+  "author": "Chak Tse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wctse/airdrop-hunter/issues"
+  },
+  "homepage": "https://github.com/wctse/airdrop-hunter#readme",
+  "dependencies": {
+    "ethers": "^6.3.0",
+    "fs": "^0.0.1-security",
+    "yaml": "^2.2.2"
+  },
+  "type": "module"
+}

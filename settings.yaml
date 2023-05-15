@@ -1,0 +1,3 @@
+rpcEndpoint: "https://rpc.ankr.com/eth_goerli"
+privateKeys:
+  - "0x348ce564d427a3311b6536bbcff9390d69395b06ed6c486954e971d960fe8709" # Publicly known private key. Do not use in production.
